@@ -1,4 +1,7 @@
-# General
+# Wilkommen. mitdiskutieren erwünscht
+
+Guten Tag 
+
 allgemeine Informationen
 https://github.com/SabineK82/officialAnnouncements
 
